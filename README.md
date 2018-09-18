@@ -1,0 +1,2 @@
+# idle
+idle game idea
